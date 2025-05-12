@@ -1,6 +1,6 @@
 # Java RMI Theater Booking System
 
-A distributed client-server application developed as part of a **Distributed Systems lab project**. It allows multiple clients to book, cancel, and view theater seat reservations via Java RMI. Includes a notification system that alerts users when previously unavailable seat types become available again.
+A distributed client-server application developed as part of a **Distributed Systems lab project**. It allows multiple clients to book, cancel and view theater seat reservations via Java RMI. Includes a notification system that alerts users when previously unavailable seat types become available again.
 
 ---
 
