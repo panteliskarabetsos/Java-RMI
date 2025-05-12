@@ -68,5 +68,3 @@ $ java THClient cancel localhost ΠΘ 5 Alice
 For educational use only.
 
 ---
-
-This README summarizes the full functionality of the application described in the main documentation.
